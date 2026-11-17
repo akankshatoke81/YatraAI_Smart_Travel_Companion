@@ -1,4 +1,4 @@
-# YatraAI – AI-Powered Maharashtra Tourism Platform
+# YatraAI – Smart Travel Companion
 
 YatraAI is an AI-powered tourism platform designed to make exploring Maharashtra easier and more informative. It uses **YOLO11n, Computer Vision, Python FastAPI, and Next.js** to identify famous tourist landmarks and monuments.
 
