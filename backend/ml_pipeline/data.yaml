@@ -1,0 +1,35 @@
+path: D:/yatraai/backend/ml_pipeline/YatraAI_Maharashtra_Dataset
+train: train/images
+val: valid/images
+test: test/images
+nc: 29
+names:
+  0: Raigad Fort
+  1: Shivneri Fort
+  2: Sinhagad Fort
+  3: Pratapgad Fort
+  4: Aga Khan Palace
+  5: Gateway of India
+  6: Ajanta Caves
+  7: Ellora Caves
+  8: Daulatabad Fort
+  9: Shaniwar Wada
+  10: Mahalaxmi Temple
+  11: Dagdusheth Halwai Ganpati Temple
+  12: Marine Drive
+  13: Elephanta Caves
+  14: Thoseghar Waterfall
+  15: Rankala Lake
+  16: Ganpatipule Beach
+  17: Tarkarli Beach
+  18: Trimbakeshwar Temple
+  19: Panhala Fort
+  20: Sindhudurg Fort
+  21: Vijaydurg Fort
+  22: Lohagad Fort
+  23: Torna Fort
+  24: Bibi Ka Maqbara
+  25: Bhimashankar Temple
+  26: Pandharpur Vitthal Temple
+  27: Grishneshwar Temple
+  28: Kanheri Caves

@@ -1,0 +1,61 @@
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+venv/
+.venv/
+env/
+
+# Python database
+*.db
+*.sqlite
+*.sqlite3
+
+# Uploads
+backend/uploads/
+uploads/
+
+# Dataset
+data/
+dataset/
+datasets/
+YatraAI_Maharashtra_Dataset/
+
+# YOLO training outputs
+runs/
+backend/runs/
+
+# Model weights
+*.pt
+*.onnx
+
+# Next.js
+frontend/.next/
+frontend/out/
+
+# Node modules
+frontend/node_modules/
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Dataset archive
+backend/ml_pipeline/YatraAI_Maharashtra_Dataset.zip
